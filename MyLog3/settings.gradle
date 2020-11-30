@@ -1,0 +1,4 @@
+include ':koala'
+include ':buildsrc'
+include ':app'
+rootProject.name = "MyLog3"
